@@ -1,56 +1,64 @@
-# Welcome to your Lovable project
+MindfulChat
+Your AI Companion for Mindful Conversations & Emotional Well-being
 
-## Project info
+🧘‍♀️ About MindfulChat
+MindfulChat is a lightweight, AI-powered chatbot designed to help users reflect on their mood, reduce stress, and build emotional resilience through mindful, friendly conversations. It offers daily mood check-ins, positive reinforcement, and a safe space to talk — anytime, anywhere.
 
-**URL**: https://lovable.dev/projects/2558136e-fc8b-43ea-9273-f1d9b036c48f
+🚀 Features
+🌿 Daily Mood Check-Ins
 
-## How can I edit this code?
+💬 Mindful, Empathetic AI Conversations
 
-There are several ways of editing your application.
+📊 Personalized Wellness Insights
 
-**Use Lovable**
+🔔 Gentle Reminders for Self-Care
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2558136e-fc8b-43ea-9273-f1d9b036c48f) and start prompting.
+🔐 Private & Secure — your data stays safe.
 
-Changes made via Lovable will be committed automatically to this repo.
+🎯 Who It's For
+Students managing academic stress
 
-**Use your preferred IDE**
+Remote workers seeking emotional balance
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Anyone needing a safe, judgment-free space to reflect
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📱 How to Use
+Open the app
 
-Follow these steps:
+Check in with how you're feeling
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Chat with your AI companion
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Review insights and small wins over time
 
-# Step 3: Install the necessary dependencies.
-npm i
+🌍 Social Impact & SDGs
+MindfulChat contributes to:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+SDG 3: Good Health & Well-being
 
-**Edit a file directly in GitHub**
+SDG 10: Reduced Inequalities
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+SDG 4: Quality Education
 
-**Use GitHub Codespaces**
+SDG 17: Partnerships for the Goals
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🤝 Contributing
+We welcome feedback, ideas, and collaborations to help grow MindfulChat’s impact!
 
-## What technologies are used for this project?
+Fork the repo
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+📄 License
+This project is licensed under the MIT License.
+
+live: https://inner-peace-bot-friend.lovable.app/
 
 This project is built with:
 
@@ -60,14 +68,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/2558136e-fc8b-43ea-9273-f1d9b036c48f) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
